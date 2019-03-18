@@ -372,6 +372,12 @@
 .lni-facebook:before {
   content: "\e971";
 }
+.lni-youtube-filled:before {
+  content: "\ea81";
+}
+.lni-youtube:before {
+  content: "\ea81";
+}
 .lni-files:before {
   content: "\e972";
 }
